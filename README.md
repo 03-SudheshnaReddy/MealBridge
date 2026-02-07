@@ -143,7 +143,7 @@ We welcome contributions! Please follow these steps:
 
 
 ## Contact
-For any inquiries, reach out at **gpranitha2003@gmail.com** or open an issue on GitHub.
+For any inquiries, reach out at **sudheshnareddy.tr@gmail.com** or open an issue on GitHub.
 
 ---
 
